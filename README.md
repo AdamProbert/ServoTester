@@ -12,6 +12,8 @@ MakerWorld model (enclosure / original design reference):
 https://makerworld.com/en/models/884319-servo-tester#profileId-839093  
 Design credit for the base enclosure concept: https://makerworld.com/en/@LayerLux3D
 
+<br>
+
 ## 🧩 Hardware
 
 | Purpose | Part / Description | Link |
